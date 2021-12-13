@@ -48,7 +48,7 @@
             }
             
         }
-        
+         
         function __destruct(){
             //close connection
             $this->conn->close();
